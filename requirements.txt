@@ -1,0 +1,5 @@
+# requirements.txt
+deta==1.2.0
+streamlit==1.25.0
+streamlit-option-menu==0.3.6
+plotly==5.15.0
