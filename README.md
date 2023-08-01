@@ -27,7 +27,7 @@ pip install -r requirements.txt
 ```
 3.Set up your Deta Base credentials:
 - Obtain your Deta Base project key from https://deta.sh
-- Create a `secrets.toml` file in the `.streamli` folder of your root directory of the project.
+- Create a `secrets.toml` file in the `.streamlit` folder of your root directory of the project.
 - Insert `data_key=YOUR_PROJECT_KEY`
   
 3.To run the FinTrack app, simply execute the following command:
