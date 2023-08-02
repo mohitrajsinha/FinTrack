@@ -11,6 +11,8 @@ FinTrack is a web application built with Streamlit that allows you to track your
 - Monthly Reports: View and manage your income and expenses for different months.
 - Data Persistence: All data is stored securely using Deta Base.
 
+ Check Out the live app at: https://fintrack-python.streamlit.app
+
 
 
 ## Installation
